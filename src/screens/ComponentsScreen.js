@@ -1,4 +1,4 @@
-import Reac from 'react';
+import React from 'react';
 import { Text, StyleSheet } from 'react-native';
 
 const ComponentsScreen = () => {
@@ -10,3 +10,5 @@ const style = StyleSheet.create({
         fontSize: 30
     }
 })
+
+export default ComponentsScreen;
